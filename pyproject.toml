@@ -4,9 +4,9 @@ build-backend = "hatchling.build"
 
 [project]
 name = "ragtrain"
-version = "0.0.0"
+version = "0.0.1"
 authors = [{ name = "Trevor Chow", email = "tmychow@gmail.com"}]
-description = "Keystroke-by-keystroke embedding search."
+description = "It is a ragtrain!"
 readme = "README.md"
 requires-python = ">=3.10"
 classifiers = [
